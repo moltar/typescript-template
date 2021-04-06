@@ -1,5 +1,5 @@
 {
-  "name": "@scaleleap/typescript-template",
+  "name": "@moltar/typescript-template",
   "description": "TypeScript Project Template",
   "license": "MIT",
   "author": {
@@ -7,13 +7,13 @@
     "email": "roman@scaleleap.com",
     "url": "https://www.scaleleap.com/"
   },
-  "homepage": "https://github.com/ScaleLeap/typescript-template",
+  "homepage": "https://github.com/moltar/typescript-template",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ScaleLeap/typescript-template.git"
+    "url": "git@github.com:moltar/typescript-template.git"
   },
   "bugs": {
-    "url": "https://github.com/ScaleLeap/typescript-template/issues"
+    "url": "https://github.com/moltar/typescript-template/issues"
   },
   "version": "0.0.0",
   "main": "lib/index.js",
